@@ -1,16 +1,19 @@
-certifi==2022.5.18.1
-click @ file:///C:/ci/click_1646038601470/work
-colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
-Flask @ file:///opt/conda/conda-bld/flask_1648041541647/work
-Flask-Login @ file:///Users/ktietz/demo/mc3/conda-bld/flask-login_1629875349535/work
-Flask-SQLAlchemy @ file:///tmp/build/80754af9/flask-sqlalchemy_1616180561581/work
-greenlet @ file:///C:/ci/greenlet_1628888257991/work
-importlib-metadata @ file:///C:/ci/importlib-metadata_1648562631189/work
-itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
-Jinja2 @ file:///opt/conda/conda-bld/jinja2_1647436528585/work
-MarkupSafe @ file:///C:/ci/markupsafe_1621528383308/work
-SQLAlchemy @ file:///C:/ci/sqlalchemy_1647600013392/work
-typing_extensions @ file:///opt/conda/conda-bld/typing_extensions_1647553014482/work
-Werkzeug @ file:///opt/conda/conda-bld/werkzeug_1645628268370/work
-wincertstore==0.2
-zipp @ file:///C:/ci/zipp_1652274072582/work
+alembic==1.6.2
+click==7.1.2
+Flask==1.1.2
+Flask-Login==0.5.0
+Flask-Migrate==2.7.0
+Flask-SQLAlchemy==2.5.1
+greenlet==1.1.0
+importlib-metadata==4.0.1
+itsdangerous==1.1.0
+Jinja2==2.11.3
+Mako==1.1.4
+MarkupSafe==1.1.1
+python-dateutil==2.8.1
+python-editor==1.0.4
+six==1.16.0
+SQLAlchemy==1.4.14
+typing-extensions==3.10.0.0
+Werkzeug==1.0.1
+zipp==3.4.1
